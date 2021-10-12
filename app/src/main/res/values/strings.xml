@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FighterTimePractise2</string>
+    <string name="game_score">Your Score: %1$d</string>
+    <string name="game_time">Time: %1$d</string>
+    <string name="tap_me_button">Tap me!</string>
+    <string name="final_score">Time\'s up! Final score is: %1$d</string>
+</resources>

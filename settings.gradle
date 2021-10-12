@@ -1,0 +1,2 @@
+rootProject.name = "FighterTimePractise2"
+include ':app'
